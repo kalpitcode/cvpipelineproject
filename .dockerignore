@@ -1,0 +1,15 @@
+__pycache__
+.venv*
+.git
+.gitignore
+*.pyc
+*.pyo
+*.egg-info
+.pytest_cache
+surveillance_runs
+*.mp4
+*.avi
+*.mov
+*.task
+*.pt
+*.pth
