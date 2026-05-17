@@ -1,0 +1,33 @@
+# Environment
+.venv/
+.venv311/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependencies
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+surveillance_runs/
+*.mp4
+*.avi
+*.mov
+*.task
+*.pt
+*.pth
+*.exe
+python-*.exe
